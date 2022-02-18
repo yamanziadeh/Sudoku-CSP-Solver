@@ -11,6 +11,23 @@ Solving Sudoku as a Constraint Optimization Problem <br /><br />
   
 </p>
 
+## How to use
+1. Clone the repo
+```sh
+git clone https://github.com/yamanziadeh/Sudoku-CSP-Solver
+```
+2. Run Makefile command to get executable file
+```sh
+make build
+```
+3. Run command to execute the executable file on the existing input
+```sh
+make run
+```
+3. Run command to execute the executable file on your custom input by inserting your input file in the inputFiles directory and running the following command
+```sh
+./main inputFileName.txt
+```
 ## CSP Properties
 ### Variables: 
 * 9*9 (81) Cells
