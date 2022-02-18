@@ -1,4 +1,7 @@
-["Sudoku" class]
+<p align="center">
+# Sudoku CSP Solver
+## Solving Sudoku as a Constraint Optimization Problem
+</p>
 
 ==[CSP]==
 Variables: 9*9 (81) Cells
