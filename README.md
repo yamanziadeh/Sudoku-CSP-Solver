@@ -5,7 +5,7 @@
   <h3 align="center">Sudoku CSP Solver</h3>
 
   <p align="center">
-Solving Sudoku as a Constraint Optimization Problem <br />
+Solving Sudoku as a Constraint Optimization Problem <br /><br />
 <img src="gitImgs/sudokuIcon.png?raw=true" width="300" >
   </p>
   
