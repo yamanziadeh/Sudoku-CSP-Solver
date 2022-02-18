@@ -1,6 +1,7 @@
 <!-- INTRO. -->
 <br />
 <p align="center">
+<img src="gitImgs/sudokuIcon.png?raw=true" width="100" >
   <h3 align="center">Sudoku CSP Solver</h3>
 
   <p align="center">
