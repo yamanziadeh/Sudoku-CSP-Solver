@@ -1,6 +1,11 @@
+<!-- INTRO. -->
+<br />
 <p align="center">
-# Sudoku CSP Solver
-## Solving Sudoku as a Constraint Optimization Problem
+  <h3 align="center">Sudoku CSP Solver</h3>
+
+  <p align="center">
+Solving Sudoku as a Constraint Optimization Problem
+  </p>
 </p>
 
 ==[CSP]==
