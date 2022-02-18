@@ -24,7 +24,7 @@ make build
 ```sh
 make run
 ```
-3. Run command to execute the executable file on your custom input by inserting your input file in the inputFiles directory and running the following command
+3. Run command to execute the executable file on your custom input by inserting your input file into the inputFiles directory and running the following command
 ```sh
 ./main inputFileName.txt
 ```
