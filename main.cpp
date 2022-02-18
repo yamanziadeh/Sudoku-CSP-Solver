@@ -5,13 +5,13 @@ using namespace std;
 
 int main(int argc, char **argv)
 {
-    string fileName;
+    string fileName = "inputFiles/";
     string cmd;
 
     if (argc == 1)
-        fileName = "input.txt";
+        fileName += "input.txt";
     else
-        fileName = argv[1];
+        fileName += argv[1];
 
     sudoku newGame(fileName);
 
