@@ -7,7 +7,7 @@
   <p align="center">
 Solving Sudoku as a Constraint Optimization Problem
   </p>
-  <img src="gitImgs/sudokuIcon.png?raw=true" align="center" width="300" >
+  <img src="gitImgs/sudokuIcon.png?raw=true" width="300" >
 </p>
 
 ## CSP Properties
